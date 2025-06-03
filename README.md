@@ -5,8 +5,7 @@ TCS34725 I2C color sensor driver for Linux platforms with integration time, gain
 
 **Author**  
 - Trần Cao Quốc Định – 22145019  
-- Đinh Công Khải – 22146020  
-- Trần Trung Kiên – 22146026  
+
 
 📍 **University**: HCMC University of Technology and Education – HCMUTE  
 📅 **Created**: *05/2025*
